@@ -37,7 +37,7 @@ To get started with Sky Saga, follow these steps:
    npm start
    ```
 
-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
+   Open https://65f6adebe038545c08bf4416--coruscating-duckanoo-2e8f59.netlify.app/ to view it in your browser. The page will reload when you make changes.
 
 ## Technologies Used
 
