@@ -24,7 +24,7 @@ To get started with Sky Saga, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd raectfirst
+   cd reactfirst
    ```
 
 3. Install dependencies:
