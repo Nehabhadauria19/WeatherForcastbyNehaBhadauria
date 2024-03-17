@@ -19,12 +19,12 @@ To get started with Sky Saga, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sky-saga.git
+   git clone https://github.com/Nehabhadauria19/WeatherForcastbyNehaBhadauria.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd sky-saga
+   cd raectfirst
    ```
 
 3. Install dependencies:
