@@ -46,18 +46,7 @@ To get started with Sky Saga, follow these steps:
 - Chart.js
 - CSS (for styling)
 
-## Screenshots
 
-_Insert screenshots of your application here, showcasing its features._
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to Sky Saga, please follow these guidelines:
-
-1. Fork the repository and create your branch (`git checkout -b feature/YourFeature`).
-2. Commit your changes (`git commit -am 'Add some feature'`).
-3. Push to the branch (`git push origin feature/YourFeature`).
-4. Create a new Pull Request.
 
 ## License
 
@@ -65,4 +54,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize the content, add more sections, or adjust any details according to your project's specific requirements.
